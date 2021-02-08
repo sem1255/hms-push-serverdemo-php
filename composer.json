@@ -1,0 +1,17 @@
+{
+  "name": "sem1255/hms-push-serverdemo-php",
+  "description": "Hms Push kit? send notifications",
+  "keywords": [
+    "hms",
+    "push kit",
+    "notifications"
+  ],
+  "type": "library",
+  "license": "MIT",
+  "support": {
+    "source": "https://github.com/HMS-Core/hms-push-serverdemo-php"
+  },
+  "require": {
+    "php": ">=5.4"
+  }
+}
